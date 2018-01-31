@@ -1,12 +1,31 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>老婆棒棒哒</title>
-</head>
+    <meta charset="UTF-8">
+    <title>测试</title>
+    <style type="text/css">
+        body{
+            background-image:url(17619771_1358836511632.jpg);
+            background-size:100% 100%;
+            height:100%;
 
+        }
+        html{
+            height:100%;
+        }
+    </style>
+</head>
 <body>
-  <strong>老婆大人棒棒哒！</strong>
-  <img src="17619771_1358836511632.jpg">
-  
+<strong>
+    <h1>登鹳雀楼</h1>
+
+    <P>唐代：王之涣</P>
+    <P>白日依山尽，</P>
+    <P>黄河入海流。</P>
+    <P>欲穷千里目，</P>
+    <P>更上一层楼。</P>
+
+</strong>
+
 </body>
 </html>
